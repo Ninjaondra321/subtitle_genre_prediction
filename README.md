@@ -5,7 +5,7 @@ Predict a genre of a czech sentence from a movie. Can be easily updated for diff
 
 ### Download this project
 ```bash
-git clone TODO add url
+git clone https://github.com/Ninjaondra321/subtitle_genre_prediction
 ```
 
 ### (optional) Generate a model
